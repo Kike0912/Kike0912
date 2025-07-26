@@ -120,7 +120,6 @@ Universidad Tecnológica de Panamá
 
 - 📧 **Correo**: enriquebatista003@gmail.com  
 - 🐱 **GitHub**: [@Kike0912](https://github.com/Kike0912)  
-- 🔗 **LinkedIn**: *(Agrega tu URL aquí si tienes)*
 
 ---
 
